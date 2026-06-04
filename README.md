@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vamshi Kasturi</h1>
 <h3 align="center">Full-Stack Web Developer | MERN Stack Developer | Problem Solver</h3>
 
-## 📫 Connect With Me
-
-<p align="left">
+<p align="center">
   <a href="mailto:kasturivamshi884@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
   </a>
