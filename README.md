@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vamshi Kasturi</h1>
 <h3 align="center">Full-Stack Web Developer | MERN Stack Developer | Problem Solver</h3>
 
+## 📫 Connect With Me
+
+ ![Gmail](kasturivamshi884@gmail.com)
+ 
+💼 LinkedIn: https://linkedin.com/in/Vamshi-Kasturi
+
+🌐 Portfolio: https://portfolio-kasturivamshis-projects.vercel.app/
+
+🐙 GitHub: https://github.com/Vamshi-Kasturi
+
+---
+
 <p align="center">
   <a href="https://github.com/Vamshi-Kasturi">
     <img src="https://komarev.com/ghpvc/?username=Vamshi-Kasturi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -117,17 +129,6 @@
 
 ---
 
-## 📫 Connect With Me
-
-📧 Email: kasturivamshi884@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/Vamshi-Kasturi
-
-🌐 Portfolio: https://portfolio-kasturivamshis-projects.vercel.app/
-
-🐙 GitHub: https://github.com/Vamshi-Kasturi
-
----
 
 ### 💡 Motto
 
