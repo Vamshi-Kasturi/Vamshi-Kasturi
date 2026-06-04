@@ -3,15 +3,23 @@
 
 ## 📫 Connect With Me
 
- ![Gmail](kasturivamshi884@gmail.com)
- 
-💼 LinkedIn: https://linkedin.com/in/Vamshi-Kasturi
+<p align="left">
+  <a href="mailto:kasturivamshi884@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+  </a>
 
-🌐 Portfolio: https://portfolio-kasturivamshis-projects.vercel.app/
+  <a href="https://linkedin.com/in/Vamshi-Kasturi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
 
-🐙 GitHub: https://github.com/Vamshi-Kasturi
+  <a href="https://portfolio-kasturivamshis-projects.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="40" height="40"/>
+  </a>
 
----
+  <a href="https://github.com/Vamshi-Kasturi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Vamshi-Kasturi">
