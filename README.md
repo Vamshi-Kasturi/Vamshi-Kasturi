@@ -10,7 +10,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 
-  <a href="https://portfolio-kasturivamshis-projects.vercel.app/" target="_blank">
+  <a href="https://portfolio-vamshi-kasturi.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="40" height="40"/>
   </a>
 
