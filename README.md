@@ -42,43 +42,43 @@
 ## 🛠️ Tech Stack
 
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-263449?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-263449?style=flat&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-263449?style=flat&logo=openjdk&logoColor=F89820)
+![C](https://img.shields.io/badge/C-263449?style=flat&logo=c&logoColor=A8B9CC)
+![TypeScript](https://img.shields.io/badge/TypeScript-263449?style=flat&logo=typescript&logoColor=60A5FA)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/React-263449?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-263449?style=flat&logo=html5&logoColor=FF795D)
+![CSS3](https://img.shields.io/badge/CSS3-263449?style=flat&logo=css&logoColor=93C5FD)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-263449?style=flat&logo=bootstrap&logoColor=C084FC)
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-263449?style=flat&logo=nodedotjs&logoColor=8CC84B)
+![Express.js](https://img.shields.io/badge/Express.js-263449?style=flat&logo=express&logoColor=white)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-263449?style=flat&logo=mongodb&logoColor=47E093)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-263449?style=flat&logo=postgresql&logoColor=93C5FD)
+![MySQL](https://img.shields.io/badge/MySQL-263449?style=flat&logo=mysql&logoColor=7DD3FC)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-263449?style=flat&logo=git&logoColor=FF795D)
+![GitHub](https://img.shields.io/badge/GitHub-263449?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-263449?style=flat&logo=postman&logoColor=FF8A65)
+![VS Code](https://img.shields.io/badge/VS%20Code-263449?style=flat)
+![Vercel](https://img.shields.io/badge/Vercel-263449?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-263449?style=flat&logo=render&logoColor=46E3B7)
+![n8n](https://img.shields.io/badge/n8n-263449?style=flat&logo=n8n&logoColor=FB7185)
+![Netlify](https://img.shields.io/badge/Netlify-263449?style=flat&logo=netlify&logoColor=32E6E2)
+![Turborepo](https://img.shields.io/badge/Turborepo-263449?style=flat&logo=turborepo&logoColor=FB7185)
 
 ### Additional Skills
 - JavaScript (ES6+), DOM manipulation, and component-based UI development
 - Third-party REST API integration, JWT authentication, and bcrypt password hashing
 - Monorepo development with Turborepo, debugging, and performance optimization
-
+  
 ---
 
 ## 💼 Experience
