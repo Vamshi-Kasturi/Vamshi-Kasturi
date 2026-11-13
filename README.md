@@ -25,6 +25,10 @@
 
 🎓 B.Tech CSE (Data Science) Graduate
 
+🏫 Vijaya Engineering College (JNTUH) · 2022–2026
+
+📍 Khammam, Telangana, India
+
 💻 Passionate Full-Stack Web Developer with hands-on experience in building scalable web applications using React.js, Node.js, Express.js, and MongoDB.
 
 🔹 Experienced in developing REST APIs, Authentication Systems, Database Management, and AI-powered workflow automation.
@@ -42,6 +46,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -66,40 +71,76 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+
+### Additional Skills
+- JavaScript (ES6+), DOM manipulation, and component-based UI development
+- Third-party REST API integration, JWT authentication, and bcrypt password hashing
+- Monorepo development with Turborepo, debugging, and performance optimization
 
 ---
 
 ## 💼 Experience
 
+### Software Developer Intern | Knowvation Learnings
+*June 2026 – Present · Remote*
+
+- Develop and maintain production web applications using React.js and TypeScript, including UI features and API integrations.
+- Perform functional and UI testing, identify issues, and collaborate with QA to resolve them.
+- Fix production bugs, maintain existing applications, and support course migrations.
+
 ### Frontend Developer Intern | Saiket Systems
+*October 2025 – November 2025 · Remote · Concurrent internship*
+
 - Developed responsive web pages using HTML, CSS, JavaScript
 - Built reusable UI components and responsive layouts
 - Created interactive applications with CRUD functionality
+- Built blog layouts with CSS Grid, Flexbox, and media queries.
+- Used DOM manipulation to build interactive quiz and to-do applications.
 
 ### Web Developer Intern | Internship Studio
+*October 2025 – November 2025 · Remote · Concurrent internship*
+
 - Developed e-commerce application pages
 - Implemented product filtering and cart functionality
 - Enhanced user experience through JavaScript interactivity
+- Built Home, Product, Cart, and Checkout pages with reusable UI components.
+- Added star ratings and client-side form validation using JavaScript and jQuery.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 Chrono AI – AI Time Management Agent
+*March 2026*
+
 - Built AI-powered scheduling assistant using n8n & Google Gemini API
 - Automated task planning and email communication
 - Designed event-driven workflow architecture
+- Built an asynchronous workflow that takes tasks, priorities, and availability from a form, generates a schedule with Gemini, and emails the result.
+- Automated manual planning and follow-up emails, saving 2+ hours per task.
 
 ### 🔐 Secure Vault – Secure File Storage System
+*March 2026*
+
 - AES-256 Encryption & Role-Based Access Control (RBAC)
 - JWT Authentication & bcrypt password hashing
 - Secure file upload/download system using MERN Stack
+- Implemented three access tiers with role-specific permissions for encrypted file uploads and downloads.
+
+[Live Demo](https://securevault-frontend-o34p.onrender.com)
 
 ### 📰 NewSpot – Real-Time News Application
+*January 2026*
+
 - React.js based news platform
 - Integrated external REST APIs
 - Infinite scrolling and category-based filtering
 - Responsive UI with optimized performance
+- Displays 100+ articles from external news APIs and shows loading states while fetching content.
+
+[Live Demo](https://newspot.vercel.app/)
 
 ---
 
@@ -129,6 +170,11 @@
 
 ---
 
+## 🌐 Languages
+
+English · Hindi · Telugu
+
+---
 
 ### 💡 Motto
 
